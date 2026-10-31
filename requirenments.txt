@@ -2,3 +2,4 @@ requests
 colorama
 beautifulsoup4
 tabulate
+Pillow
