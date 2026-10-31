@@ -102,9 +102,7 @@ API keys are optional and only raise limits or unlock specific modules. See
 [Configuration](#configuration).
 
 ---
-
 ## Installation
-
 ```bash
 git clone https://github.com/InayatHussain09/SocialIntellax.git
 cd SocialIntellax
